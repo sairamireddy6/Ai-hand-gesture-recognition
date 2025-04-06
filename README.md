@@ -35,10 +35,3 @@ This project is built with the following awesome libraries and frameworks:
 | `react-webcam`               | Webcam integration in React     |
 
 ---
-
-## 📸 Preview (GIF-style)
-
-While GitHub doesn't support autoplay videos, you can use a tool like [LICEcap](https://www.cockos.com/licecap/) or [ScreenToGif](https://www.screentogif.com/) to convert part of the YouTube demo into a `.gif`, and then embed it like this:
-
-```markdown
-![Demo GIF](demo.gif)
